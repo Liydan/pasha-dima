@@ -1,0 +1,6 @@
+vk_api
+requests
+time
+threading
+filemath
+fake_useragent
