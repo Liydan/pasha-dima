@@ -1,5 +1,4 @@
 vk_api
-time
 threading
 filemath
 fake_useragent
